@@ -1,0 +1,12 @@
+D:\BACKUP\Backup c\My Documents\Visual Studio Projects\LittleRPG\obj\Release\Interop.WMPLib.dll
+D:\BACKUP\Backup c\My Documents\Visual Studio Projects\LittleRPG\obj\Release\AxInterop.WMPLib.dll
+D:\BACKUP\Backup c\My Documents\Visual Studio Projects\LittleRPG\obj\Release\LittleRPG.vbproj.ResolveComReference.cache
+D:\BACKUP\Backup c\My Documents\Visual Studio Projects\LittleRPG\obj\Release\LittleRPG.exe
+D:\BACKUP\Backup c\My Documents\Visual Studio Projects\LittleRPG\bin\LittleRPG.exe
+D:\BACKUP\Backup c\My Documents\Visual Studio Projects\LittleRPG\bin\LittleRPG.xml
+D:\BACKUP\Backup c\My Documents\Visual Studio Projects\LittleRPG\bin\Interop.WMPLib.dll
+D:\BACKUP\Backup c\My Documents\Visual Studio Projects\LittleRPG\bin\AxInterop.WMPLib.dll
+D:\BACKUP\Backup c\My Documents\Visual Studio Projects\LittleRPG\obj\Release\LittleRPG.Form1.resources
+D:\BACKUP\Backup c\My Documents\Visual Studio Projects\LittleRPG\obj\Release\LittleRPG.Form2.resources
+D:\BACKUP\Backup c\My Documents\Visual Studio Projects\LittleRPG\obj\Release\LittleRPG.vbproj.GenerateResource.Cache
+D:\BACKUP\Backup c\My Documents\Visual Studio Projects\LittleRPG\obj\Release\LittleRPG.xml

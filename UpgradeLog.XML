@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LittleRPG">
+</Property><Property Name="Solution File" Value="D:\BACKUP\Backup c\My Documents\Visual Studio Projects\LittleRPG\LittleRPG.sln">
+</Property><Property Name="User Options File" Value="D:\BACKUP\Backup c\My Documents\Visual Studio Projects\LittleRPG\LittleRPG.suo">
+</Property><Property Name="Date" Value="Sunday, July 07, 2013">
+</Property><Property Name="Time" Value="10:19 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LittleRPG.sln" Description="File successfully backed up as D:\BACKUP\Backup c\My Documents\Visual Studio Projects\LittleRPG\Backup\LittleRPG.sln">
+</Event><Event ErrorLevel="0" Project="" Source="LittleRPG.suo" Description="File successfully backed up as D:\BACKUP\Backup c\My Documents\Visual Studio Projects\LittleRPG\Backup\LittleRPG.suo">
+</Event><Event ErrorLevel="0" Project="LittleRPG" Source="LittleRPG.vbproj" Description="Project file successfully backed up as D:\BACKUP\Backup c\My Documents\Visual Studio Projects\LittleRPG\Backup\LittleRPG.vbproj">
+</Event><Event ErrorLevel="0" Project="LittleRPG" Source="LittleRPG.vbproj.user" Description="Project user file successfully backed up as D:\BACKUP\Backup c\My Documents\Visual Studio Projects\LittleRPG\Backup\LittleRPG.vbproj.user">
+</Event><Event ErrorLevel="0" Project="LittleRPG" Source="AssemblyInfo.vb" Description="File successfully backed up as D:\BACKUP\Backup c\My Documents\Visual Studio Projects\LittleRPG\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="LittleRPG" Source="Form1.vb" Description="File successfully backed up as D:\BACKUP\Backup c\My Documents\Visual Studio Projects\LittleRPG\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="LittleRPG" Source="Form2.vb" Description="File successfully backed up as D:\BACKUP\Backup c\My Documents\Visual Studio Projects\LittleRPG\Backup\Form2.vb">
+</Event><Event ErrorLevel="0" Project="LittleRPG" Source="litrpg.ico" Description="File successfully backed up as D:\BACKUP\Backup c\My Documents\Visual Studio Projects\LittleRPG\Backup\litrpg.ico">
+</Event><Event ErrorLevel="0" Project="LittleRPG" Source="Form1.resx" Description="File successfully backed up as D:\BACKUP\Backup c\My Documents\Visual Studio Projects\LittleRPG\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="LittleRPG" Source="Form2.resx" Description="File successfully backed up as D:\BACKUP\Backup c\My Documents\Visual Studio Projects\LittleRPG\Backup\Form2.resx">
+</Event><Event ErrorLevel="0" Project="LittleRPG" Source="LittleRPG.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LittleRPG" Source="LittleRPG.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LittleRPG.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LittleRPG.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LittleRPG" Source="LittleRPG.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
